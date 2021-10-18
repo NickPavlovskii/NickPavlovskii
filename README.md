@@ -16,4 +16,4 @@ HR: https://www.hackerrank.com/niklad228
 
 Kaggle:https://www.kaggle.com/niklad
 
-![mail](https://img.shields.io/badge/mail-000001?style=for-the-badge&logo=GitHub&logoColor=white)
+![mail](https://img.shields.io/badge/mail-000001?style=for-the-badge&logo=mail&logoColor=white)
