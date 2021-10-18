@@ -6,7 +6,8 @@
 
 📫 How to reach me:
 
-* Mail : o_oniklado_o@list.ru
+![Mail.Ru](https://img.shields.io/badge/mail-005FF9?style=for-the-badge&logo=Mail.Ru&logoColor=white)
+ Mail : o_oniklado_o@list.ru
 * VK: https://vk.com/o_0niklad0_o
 
 HR: https://www.hackerrank.com/niklad228
