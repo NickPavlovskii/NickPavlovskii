@@ -1,3 +1,5 @@
+<h3 align="center">ABOUT ME <h3>
+
 ✌Hi, I’m Nick
 
 🤟I’m interested in neural networks and data analysis
