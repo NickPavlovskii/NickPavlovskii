@@ -13,3 +13,5 @@ HR: https://www.hackerrank.com/niklad228
 
 * 🧠 Algorithms
 * 🥇SQL
+
+Kaggle:https://www.kaggle.com/niklad
