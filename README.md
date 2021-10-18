@@ -15,3 +15,5 @@ HR: https://www.hackerrank.com/niklad228
 * 🥇SQL
 
 Kaggle:https://www.kaggle.com/niklad
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
