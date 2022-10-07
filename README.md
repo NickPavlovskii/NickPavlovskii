@@ -4,7 +4,7 @@
 
 🤟I’m interested in neural networks, data analysis and web-development
 
-🔥 I am currently studying GO/php for web development and event prediction using neural networks in python
+🔥 I am currently studying JS, php for web development and event prediction using neural networks in python
 
 📫 How to reach me:
  
