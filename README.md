@@ -5,6 +5,8 @@
 🤟I’m interested in neural networks, data analysis and web-development
 
 🔥 I am currently studying JS(React/Vue), php(Laravel) for web development.
+ 
+ My portfolio: https://nickpavlovskii.github.io/
 
 📫 How to reach me:
  
