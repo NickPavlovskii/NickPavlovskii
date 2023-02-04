@@ -42,7 +42,6 @@ Kaggle:https://www.kaggle.com/niklad
   <a href=" " target="_blank"> <img src="https://img.icons8.com/external-dreamstale-lineal-dreamstale/32/000000/external-css-files-dreamstale-lineal-dreamstale.png" width="40" height="40"/> </a>
 <a href=" " target="_blank"> <img src="https://img.icons8.com/external-dreamstale-lineal-dreamstale/32/000000/external-html-files-dreamstale-lineal-dreamstale.png" width="40" height="40"/> </a>
  <a href=" " target="_blank">  <img src="https://img.icons8.com/ios/50/000000/javascript--v1.png" width="40" height="40"/> </a>
- <a href=" " target="_blank"> <img src="https://img.icons8.com/windows/32/000000/vuejs.png" width="40" height="40"/> </a>
  <a href=" " target="_blank"> <img src="https://img.icons8.com/dotty/80/000000/react.png" width="40" height="40"/> </a>
  
  
