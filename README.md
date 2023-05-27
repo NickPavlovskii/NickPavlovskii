@@ -26,6 +26,7 @@ Kaggle:https://www.kaggle.com/niklad
 <a href="https://www.instagram.com/o__niklad__o/?hl=ru" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
 <a href="https://mail.google.com/mail/u/0/#inbox" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
 <a href="https://e.mail.ru/inbox/?utm_source=portal&utm_medium=new_portal_navigation&utm_campaign=e.mail.ru&mt_click_id=mt-y7s979-1634560769-1521712430&mt_sub1=e.mail.ru" target="blank"><img align="center" src="https://user-images.githubusercontent.com/84456340/137731841-f262264f-a58f-4816-987f-1a3782feca2e.png" alt="rahul_dk_jain" height="30" width="40" /></a>
+ 
 </p>
 
 <h3 align="left">My publications: none</h3>
@@ -43,7 +44,7 @@ Kaggle:https://www.kaggle.com/niklad
 <a href=" " target="_blank"> <img src="https://img.icons8.com/external-dreamstale-lineal-dreamstale/32/000000/external-html-files-dreamstale-lineal-dreamstale.png" width="40" height="40"/> </a>
  <a href=" " target="_blank">  <img src="https://img.icons8.com/ios/50/000000/javascript--v1.png" width="40" height="40"/> </a>
  <a href=" " target="_blank"> <img src="https://img.icons8.com/dotty/80/000000/react.png" width="40" height="40"/> </a>
- 
+  <a href=" " target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vue-js"/></a>
  
  
 </p>
