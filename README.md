@@ -36,10 +36,9 @@ Kaggle:https://www.kaggle.com/niklad
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href=" "> <img src="https://user-images.githubusercontent.com/84456340/137735098-82427a48-07f4-41e1-8c25-8f6855f239cc.png"alt="html5" width="40" height="40"/> </a>
-  <a href=" "> <img src="https://user-images.githubusercontent.com/84456340/137734334-56c29178-9b7e-4520-8b21-f9a282b3f611.png"alt="html5" width="40" height="40"/> </a>
+  
+ 
  <a href=" " target="_blank"> <img src="https://user-images.githubusercontent.com/84456340/137734483-0cb219fd-d76c-4680-b79e-9174d670392d.png" width="40" height="40"/> </a>
-<a href=" " target="_blank"> <img src="https://img.icons8.com/external-dreamstale-lineal-dreamstale/32/000000/external-php-files-dreamstale-lineal-dreamstale.png" width="40" height="40"/> </a>
   <a href=" " target="_blank"> <img src="https://img.icons8.com/external-dreamstale-lineal-dreamstale/32/000000/external-css-files-dreamstale-lineal-dreamstale.png" width="40" height="40"/> </a>
 <a href=" " target="_blank"> <img src="https://img.icons8.com/external-dreamstale-lineal-dreamstale/32/000000/external-html-files-dreamstale-lineal-dreamstale.png" width="40" height="40"/> </a>
  <a href=" " target="_blank">  <img src="https://img.icons8.com/ios/50/000000/javascript--v1.png" width="40" height="40"/> </a>
