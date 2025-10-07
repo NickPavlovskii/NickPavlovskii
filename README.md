@@ -6,7 +6,7 @@
 
 🔥 I am currently studying JS(React/Vue), php(Laravel) for web development.
  
- My portfolio: https://nickpavlovskii.github.io/
+ My portfolio: [https://nickpavlovskii](https://npavlovskij.netlify.app/portfolio/kinox)
 
 📫 How to reach me:
  
