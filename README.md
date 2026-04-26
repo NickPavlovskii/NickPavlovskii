@@ -169,7 +169,7 @@
 ### <img src="https://img.icons8.com/fluency/25/000000/movie.png" width="22"/> [KinOx — онлайн-кинотеатр](https://kinoxmovie.netlify.app/)
 
 <a href="https://kinoxmovie.netlify.app/">
-  <img src="https://api.microlink.io/?url=https://kinoxmovie.netlify.app/&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="KinOx"/>
+  <img src="kinox.JPG" width="100%" alt="KinOx"/>
 </a>
 
 **Vue 3 · SCSS · Jest · PrimeVue · Storybook**
