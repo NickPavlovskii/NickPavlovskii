@@ -128,7 +128,7 @@
 
 ## <img src="https://img.icons8.com/fluency/48/000000/work.png" width="30"/> Профессиональный опыт
 
-### <img src="https://img.icons8.com/fluency/30/000000/office.png" width="25"/> НИЦ СПбГЭТУ «ЛЭТИ» | Программист 3 категории
+### <img src="https://img.icons8.com/fluency/30/000000/office.png" width="25"/> НИЦ СПбГЭТУ «ЛЭТИ» | Программист 2 категории
 **2023 — настоящее время**
 
 - <img src="https://img.icons8.com/fluency/20/000000/rocket.png" width="18"/> Разработка и поддержка веб-приложений на **JavaScript, TypeScript, Vue 3, Java**
@@ -143,13 +143,13 @@
 
 ---
 
-## <img src="https://img.icons8.com/fluency/48/000000/rocket-take-off.png" width="30"/> Избранные проекты
+##  Избранные проекты
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://img.icons8.com/fluency/25/000000/globe.png" width="22"/> [Портфолио-сайт](https://npavlovskij.netlify.app/)
+###  [Портфолио-сайт](https://npavlovskij.netlify.app/)
 
 <a href="https://npavlovskij.netlify.app/">
   <img src="https://api.microlink.io/?url=https://npavlovskij.netlify.app/&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="Портфолио"/>
