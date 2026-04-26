@@ -44,7 +44,7 @@
 ## <img src="https://img.icons8.com/fluency/48/000000/medal.png" width="30"/> Достижения
 
 <p>
-<img align="right" src="qualification3.jpg" width="350" style="border-radius: 12px; margin-left: 20px;" alt="Студент года 2020"/>
+<img align="right" src="leti.jpg" width="350" style="border-radius: 12px; margin-left: 20px;" alt="Студент года 2020"/>
 
 ### «Студент года 2020»
 
@@ -56,7 +56,7 @@
 <br clear="all"/>
 
 <p>
-<img align="left" src="qualification.jpg" width="350" style="border-radius: 12px; margin-right: 20px;" alt="Олимпиада по физике"/>
+<img align="left" src="physics.jpg" width="350" style="border-radius: 12px; margin-right: 20px;" alt="Олимпиада по физике"/>
 
 ### <img src="https://img.icons8.com/fluency/30/000000/physics.png" width="25"/> Призёр олимпиады по физике
 
