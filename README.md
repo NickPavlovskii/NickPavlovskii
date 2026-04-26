@@ -348,4 +348,4 @@
 </div>
 
 <!-- Анимированный футер с волной -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12&height=120&section=footer&animation=twinkling)
+![footer](github_footer_banner.svg)
