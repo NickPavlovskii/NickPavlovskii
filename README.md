@@ -1,11 +1,31 @@
 <div align="center">
-  
-# 👋 Привет, я Никита Павловский!
 
-### FullStack Developer | Vue.js & Java
-*Целеустремлённый разработчик с опытом создания сложных веб-приложений и геоинформационных систем*
+<!-- Анимированный баннер сверху -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12&height=200&section=header&text=Nikita%20Pavlovskii&fontSize=50&fontColor=ffffff&desc=FullStack%20Developer%20|%20Vue.js%20%26%20Java&descSize=20&descAlignY=70&animation=twinkling)
 
 </div>
+
+<!-- Шапка с фото слева и текстом справа -->
+<table>
+<tr>
+<td width="220">
+  <img src="photo_2026-04-26_04-05-20.jpg" width="200" style="border-radius: 50%;" alt="Никита Павловский"/>
+</td>
+<td>
+
+### 👋 Привет, я Никита Павловский!
+
+**FullStack Developer | Vue.js & Java**
+
+*Целеустремлённый разработчик с опытом создания сложных веб-приложений и геоинформационных систем*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://npavlovskij.netlify.app/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/N1klad)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:o_oniklado_o@list.ru)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -26,7 +46,7 @@
 - Активный участник митапов и конференций по фронтенд-разработке
 
 **<img src="https://img.icons8.com/fluency/24/000000/briefcase.png" width="20"/> Текущая позиция:**
-- Программист 3 категории в НИЦ СПбГЭТУ «ЛЭТИ» (2023 — настоящее время)
+- Программист 2 категории в НИЦ СПбГЭТУ «ЛЭТИ» (2023 — настоящее время)
 
 ---
 
@@ -125,64 +145,107 @@
 
 ## <img src="https://img.icons8.com/fluency/48/000000/rocket-take-off.png" width="30"/> Избранные проекты
 
-### 1. <img src="https://img.icons8.com/fluency/25/000000/globe.png" width="22"/> [Портфолио-сайт](https://npavlovskij.netlify.app/)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://img.icons8.com/fluency/25/000000/globe.png" width="22"/> [Портфолио-сайт](https://npavlovskij.netlify.app/)
+
+<a href="https://npavlovskij.netlify.app/">
+  <img src="https://api.microlink.io/?url=https://npavlovskij.netlify.app/&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="Портфолио"/>
+</a>
+
 **Nuxt 3 · TypeScript · Vuetify · SCSS · Storybook · Vite**
 
 Личный сайт с проектами, таймлайном и интерактивными элементами. Полная документация интерфейсов через Storybook.
 
-[![Website](https://img.shields.io/badge/Website-Live-success?style=flat-square)](https://npavlovskij.netlify.app/)
-[![Storybook](https://img.shields.io/badge/Storybook-Docs-FF4785?style=flat-square)](https://npavlovskijstorybook.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/my-portfolio)
+[![Live](https://img.shields.io/badge/Live-success?style=flat-square)](https://npavlovskij.netlify.app/)
+[![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)](https://npavlovskijstorybook.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/my-portfolio)
 
----
+</td>
+<td width="50%" valign="top">
 
-### 2. <img src="https://img.icons8.com/fluency/25/000000/movie.png" width="22"/> [KinOx — онлайн-кинотеатр](https://kinoxmovie.netlify.app/)
+### <img src="https://img.icons8.com/fluency/25/000000/movie.png" width="22"/> [KinOx — онлайн-кинотеатр](https://kinoxmovie.netlify.app/)
+
+<a href="https://kinoxmovie.netlify.app/">
+  <img src="https://api.microlink.io/?url=https://kinoxmovie.netlify.app/&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="KinOx"/>
+</a>
+
 **Vue 3 · SCSS · Jest · PrimeVue · Storybook**
 
 Современное SPA для поиска фильмов с фильтрами, избранным, оценками. Интеграция с **TMDB API**, тестирование через **Jest**.
 
-[![Website](https://img.shields.io/badge/Website-Live-success?style=flat-square)](https://kinoxmovie.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/KinOx)
+[![Live](https://img.shields.io/badge/Live-success?style=flat-square)](https://kinoxmovie.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/KinOx)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 3. <img src="https://img.icons8.com/fluency/25/000000/money-bag.png" width="22"/> [Cafe Bill Splitter](https://billatthecafe.netlify.app/)
+### <img src="https://img.icons8.com/fluency/25/000000/money-bag.png" width="22"/> [Cafe Bill Splitter](https://billatthecafe.netlify.app/)
+
+<a href="https://billatthecafe.netlify.app/">
+  <img src="https://api.microlink.io/?url=https://billatthecafe.netlify.app/&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="Cafe Bill Splitter"/>
+</a>
+
 **Vue · SCSS · PrimeVue · Storybook**
 
-Приложение для разделения счёта в кафе с учётом чаевых и расчётом для каждого участника.
+Приложение для разделения счёта в кафе с учётом чаевых и расчётом для каждого участника. Минималистичный UI.
 
-[![Website](https://img.shields.io/badge/Website-Live-success?style=flat-square)](https://billatthecafe.netlify.app/)
-[![Storybook](https://img.shields.io/badge/Storybook-Docs-FF4785?style=flat-square)](https://cafebillsplitterstoorybook.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/billAtTheCafe)
+[![Live](https://img.shields.io/badge/Live-success?style=flat-square)](https://billatthecafe.netlify.app/)
+[![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)](https://cafebillsplitterstoorybook.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/billAtTheCafe)
 
----
+</td>
+<td width="50%" valign="top">
 
-### 4. <img src="https://img.icons8.com/fluency/25/000000/calendar.png" width="22"/> [Сайт "Карьерной недели"](https://careeweekleti.netlify.app/)
+### <img src="https://img.icons8.com/fluency/25/000000/calendar.png" width="22"/> [Карьерная неделя ЛЭТИ](https://careeweekleti.netlify.app/)
+
+<a href="https://careeweekleti.netlify.app/">
+  <img src="https://api.microlink.io/?url=https://careeweekleti.netlify.app/&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="Карьерная неделя"/>
+</a>
+
 **Vue · JavaScript · HTML · CSS · Figma**
 
 Полностью адаптивный сайт студенческого мероприятия с регистрацией, динамическим контентом, интерактивной картой и QR-кодами.
 
-[![Website](https://img.shields.io/badge/Website-Live-success?style=flat-square)](https://careeweekleti.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/billAtTheCafe)
+[![Live](https://img.shields.io/badge/Live-success?style=flat-square)](https://careeweekleti.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/career-week)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 5. <img src="https://img.icons8.com/fluency/25/000000/map-pin.png" width="22"/> Геоинформационное приложение (GIS)
+### <img src="https://img.icons8.com/fluency/25/000000/map-pin.png" width="22"/> [Геоинформационное приложение (GIS)](https://npavlovskij.netlify.app/portfolio/gis-green-zones)
+
+
+
 **JavaScript · Python · OpenLayers · GeoServer · PostGIS**
 
 Автоматическое распознавание зелёных зон по аэрофотоснимкам. Сегментация с помощью **DeepForest** и **SegFormer**, хранение в **PostGIS**, визуализация через **GeoServer**.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/Gis)
 [![Details](https://img.shields.io/badge/Details-Portfolio-00C7B7?style=flat-square)](https://npavlovskij.netlify.app/portfolio/gis-green-zones)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/Gis)
 
----
+</td>
+<td width="50%" valign="top">
 
-### 6. <img src="https://img.icons8.com/fluency/25/000000/bar-chart.png" width="22"/> Анализ данных — стажировка в Сбере
+### <img src="https://img.icons8.com/fluency/25/000000/bar-chart.png" width="22"/> [Анализ данных — Сбер](https://github.com/NickPavlovskii/sber)
+
+
+
 **Python · Pandas · NumPy · Seaborn · Matplotlib**
 
 Анализ временных рядов по объёмам расчётных счетов физических лиц. Прогнозирование стабильных уровней остатков средств (UMP).
 
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/sber/blob/main/README.md)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/sber/blob/main/README.md)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -219,6 +282,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickPavlovskii&layout=compact&theme=vue&hide_border=true&bg_color=1a1b27&title_color=41b883&text_color=c9d1d9)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NickPavlovskii&theme=vue-dark&hide_border=true&background=1a1b27&stroke=41b883&ring=41b883&fire=41b883&currStreakLabel=41b883)
+
 </div>
 
 ---
@@ -232,3 +297,6 @@
 **<img src="https://img.icons8.com/fluency/20/000000/star.png" width="18"/> Буду рад сотрудничеству и новым вызовам!**
 
 </div>
+
+<!-- Анимированный футер с волной -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12&height=120&section=footer&animation=twinkling)
