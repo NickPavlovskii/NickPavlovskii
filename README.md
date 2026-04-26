@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Анимированный баннер сверху -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12&height=200&section=header&text=Nikita%20Pavlovskii&fontSize=50&fontColor=ffffff&desc=FullStack%20Developer%20|%20Vue.js%20%26%20Java&descSize=20&descAlignY=70&animation=twinkling)
+![header](github_profile_banner.svg)
 
 </div>
 
