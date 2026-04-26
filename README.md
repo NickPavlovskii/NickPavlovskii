@@ -44,9 +44,9 @@
 ## <img src="https://img.icons8.com/fluency/48/000000/medal.png" width="30"/> Достижения
 
 <p>
-<img align="right" src="photo_2026-04-26_04-05-20.jpg" width="300" style="border-radius: 12px; margin-left: 20px;"/>
+<img align="right" src="qualification3.jpg" width="350" style="border-radius: 12px; margin-left: 20px;" alt="Студент года 2020"/>
 
-### <img src="https://img.icons8.com/fluency/30/000000/prize.png" width="25"/> «Студент года 2020»
+### «Студент года 2020»
 
 Награждён званием **«Студент года»** за значительный вклад в развитие студенческого сообщества СПбГЭТУ «ЛЭТИ».
 
@@ -56,19 +56,34 @@
 <br clear="all"/>
 
 <p>
-<img align="left" src="photo_2026-04-26_04-05-20.jpg" width="300" style="border-radius: 12px; margin-right: 20px;"/>
+<img align="left" src="qualification.jpg" width="350" style="border-radius: 12px; margin-right: 20px;" alt="Олимпиада по физике"/>
 
-### <img src="https://img.icons8.com/fluency/30/000000/code.png" width="25"/> Организатор хакатонов
+### <img src="https://img.icons8.com/fluency/30/000000/physics.png" width="25"/> Призёр олимпиады по физике
 
-**Организовывал студенческие мероприятия и хакатоны** в университете.
+**Диплом II степени** на региональной предметной олимпиаде студентов высших учебных заведений Санкт-Петербурга по физике (2020).
 
-Участвовал в подготовке IT-конкурсов, координировал команды и помогал создавать пространство для развития технических навыков среди студентов.
+Награда от Правительства Санкт-Петербурга, Комитета по науке и высшей школе. Командное первенство в составе сборной СПбГЭТУ «ЛЭТИ».
 </p>
 
 <br clear="all"/>
 
 <p>
-<img align="right" src="photo_2026-04-26_04-05-20.jpg" width="300" style="border-radius: 12px; margin-left: 20px;"/>
+<img align="right" src="qualification.JPG" width="350" style="border-radius: 12px; margin-left: 20px;" alt="Повышение квалификации"/>
+
+### <img src="https://img.icons8.com/fluency/30/000000/diploma.png" width="25"/> Повышение квалификации
+
+**«Управление технологическими проектами»** — программа дополнительного профессионального образования в СПбГЭТУ «ЛЭТИ» (60 часов, 2025).
+
+В рамках программы участвовал в **акселераторе со стартап-проектом**, прошёл путь от идеи до защиты бизнес-модели.
+
+[![Презентация](https://img.shields.io/badge/Презентация-Стартапа-FF6B35?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](ВАША_ССЫЛКА_НА_ПРЕЗЕНТАЦИЮ)
+[![Сайт](https://img.shields.io/badge/Сайт-Проекта-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](ВАША_ССЫЛКА_НА_САЙТ)
+</p>
+
+<br clear="all"/>
+
+<p>
+<img align="left" src="alfa.jpg" width="350" style="border-radius: 12px; margin-right: 20px;" alt="Конференции"/>
 
 ### <img src="https://img.icons8.com/fluency/30/000000/conference-call.png" width="25"/> Митапы и конференции
 
