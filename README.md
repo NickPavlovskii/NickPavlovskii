@@ -323,20 +323,6 @@
 
 ---
 
-## <img src="https://img.icons8.com/fluency/48/000000/statistics.png" width="30"/> GitHub Статистика
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NickPavlovskii&show_icons=true&theme=vue&hide_border=true&bg_color=1a1b27&title_color=41b883&icon_color=41b883&text_color=c9d1d9)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickPavlovskii&layout=compact&theme=vue&hide_border=true&bg_color=1a1b27&title_color=41b883&text_color=c9d1d9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NickPavlovskii&theme=vue-dark&hide_border=true&background=1a1b27&stroke=41b883&ring=41b883&fire=41b883&currStreakLabel=41b883)
-
-</div>
-
----
-
 <div align="center">
   
 ### <img src="https://img.icons8.com/fluency/30/000000/idea.png" width="25"/> Открыт для новых технологий и интересных проектов!
