@@ -1,11 +1,7 @@
 <div align="center">
 
-<!-- Анимированный баннер сверху -->
-![header](github_profile_banner.svg)
-
 </div>
 
-<!-- Шапка с фото слева и текстом справа -->
 <table>
 <tr>
 <td width="220">
