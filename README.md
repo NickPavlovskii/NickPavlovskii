@@ -43,7 +43,7 @@
 
 ## <img src="https://img.icons8.com/fluency/48/000000/work.png" width="30"/> Профессиональный опыт
 
-### <img src="https://img.icons8.com/fluency/30/000000/office.png" width="25"/> НИЦ СПбГЭТУ «ЛЭТИ» | Программист 
+### <img src="https://img.icons8.com/fluency/30/000000/office.png" width="25"/> НИЦ СПбГЭТУ «ЛЭТИ» | Программист 2 категории
 **2023 — настоящее время**
 
 - <img src="https://img.icons8.com/fluency/20/000000/rocket.png" width="18"/> Разработка и поддержка веб-приложений на **JavaScript, TypeScript, Vue 3, Java**
