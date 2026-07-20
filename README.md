@@ -175,6 +175,69 @@
 
 ##  Избранные проекты
 
+### <img src="https://img.icons8.com/fluency/30/000000/map-pin.png" width="26"/> [Niklad — геоинформационное приложение (GIS)](https://npavlovskij.netlify.app/portfolio/gis-green-zones)
+
+ГИС-клиент для **инвентаризации зелёных зон**: ортофото, сегментация и объекты инфраструктуры на одной карте (дипломный проект).
+
+<p align="center">
+  <img src="projects/gis/01-map-overview.png" width="90%" alt="Niklad — обзор карты"/>
+</p>
+
+<p align="center">
+  <img src="projects/gis/02-object-modal.png" width="45%" alt="Карточка инфраструктуры"/>
+  &nbsp;
+  <img src="projects/gis/03-tree-modal.png" width="45%" alt="Карточка дерева"/>
+</p>
+
+**Стек:** HTML · CSS · JavaScript · OpenLayers · GeoServer · PostGIS · GeoTIFF · DeepForest · SegFormer
+
+**Возможности:**
+- Ортофото-мозаика и детальный снимок Саблино 5 см
+- Слой «Покрытие» — маска сегментации (preds)
+- Вкладки «Инфраструктура» / «Зелёные зоны», фильтры классов
+- Карточки объектов по клику на карте или в списке
+- Ctrl + выделение области — число деревьев, площадь и плотность
+- Локальный режим без GeoServer (GeoJSON + веб-растры) или полный контур WMS/WFS
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Details-00C7B7?style=flat-square)](https://npavlovskij.netlify.app/portfolio/gis-green-zones)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/Gis)
+[![Инструкция](https://img.shields.io/badge/Инструкция-Docs-4285F4?style=flat-square)](https://docs.google.com/document/d/1E6tCT9mdjqnSAF5sFuEA_ljDCxMdOJCw/edit?usp=drive_link)
+[![ВКР](https://img.shields.io/badge/ВКР-PDF-EA4335?style=flat-square)](https://drive.google.com/file/d/1EONj1TvYs_iNKD5-TZ3nkLuDDmsQ-ItK/view?usp=drive_link)
+
+---
+
+### <img src="https://img.icons8.com/fluency/30/000000/report-card.png" width="26"/> [ИС «Отчёты» — хранение и проверка учебных работ](https://npavlovskij.netlify.app/portfolio/student-reports-system)
+
+Корпоративная ИС для СПбГЭТУ «ЛЭТИ»: централизованная работа с учебной отчётностью студентов кафедры (ИДЗ, доклады, лабораторные и др.). Внедрена на кафедре ИС (акт внедрения по результатам ВКР).
+
+<p align="center">
+  <img src="projects/reports/screen-overview.png" width="90%" alt="ИС Отчёты — обзор"/>
+</p>
+
+<p align="center">
+  <img src="projects/reports/screen-reports.png" width="45%" alt="Таблица отчётов"/>
+  &nbsp;
+  <img src="projects/reports/screen-analytics.png" width="45%" alt="Аналитика"/>
+</p>
+
+**Стек:** Vue 3 · TypeScript · PWA · Vuetify · Storybook · Vitest · Java Spring · PostgreSQL
+
+**Возможности:**
+- Дисциплины и группы преподавателя с фильтрацией
+- Загрузка отчётов с привязкой к дисциплине, группе, студенту и теме
+- Статусы: загружено / не загружено / проверено
+- Аналитика по дисциплинам, семестрам и преподавателям
+- Экспорт в Excel и графиков в PNG
+- PWA-режим; доклады на конференциях СПбГЭТУ «ЛЭТИ»
+
+[![Live](https://img.shields.io/badge/Live-etu--report-success?style=flat-square)](https://etu-report.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Details-00C7B7?style=flat-square)](https://npavlovskij.netlify.app/portfolio/student-reports-system)
+[![Client](https://img.shields.io/badge/GitHub-Client-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/etu-student-report)
+[![Backend](https://img.shields.io/badge/GitHub-Backend-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/etu-reports-backend)
+[![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)](https://etu-storybook.netlify.app)
+
+---
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -249,29 +312,16 @@
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://img.icons8.com/fluency/25/000000/map-pin.png" width="22"/> [Геоинформационное приложение (GIS)](https://npavlovskij.netlify.app/portfolio/gis-green-zones)
-
-
-
-**JavaScript · Python · OpenLayers · GeoServer · PostGIS**
-
-Автоматическое распознавание зелёных зон по аэрофотоснимкам. Сегментация с помощью **DeepForest** и **SegFormer**, хранение в **PostGIS**, визуализация через **GeoServer**.
-
-[![Details](https://img.shields.io/badge/Details-Portfolio-00C7B7?style=flat-square)](https://npavlovskij.netlify.app/portfolio/gis-green-zones)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/Gis)
-
-</td>
-<td width="50%" valign="top">
-
 ### <img src="https://img.icons8.com/fluency/25/000000/bar-chart.png" width="22"/> [Анализ данных — Сбер](https://github.com/NickPavlovskii/sber)
-
-
 
 **Python · Pandas · NumPy · Seaborn · Matplotlib**
 
 Анализ временных рядов по объёмам расчётных счетов физических лиц. Прогнозирование стабильных уровней остатков средств (UMP).
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/sber/blob/main/README.md)
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
