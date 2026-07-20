@@ -271,6 +271,40 @@
 
 ---
 
+### <img src="https://img.icons8.com/fluency/30/000000/calendar.png" width="26"/> [Карьерная неделя ЛЭТИ](https://npavlovskij.netlify.app/portfolio/career-week)
+
+Информационный сайт Студенческой карьерной недели СПбГЭТУ «ЛЭТИ»: программа, регистрация участников и работодателей, карта и схема зала. **Сайт использовался вузом при проведении мероприятия.**
+
+<p align="center">
+  <img src="projects/career-week/01-hero.jpg" width="90%" alt="Карьерная неделя — главная"/>
+</p>
+
+<p align="center">
+  <img src="projects/career-week/02-program.jpg" width="45%" alt="Карьерная неделя — программа"/>
+  &nbsp;
+  <img src="projects/career-week/04-registration.jpg" width="45%" alt="Карьерная неделя — регистрация"/>
+</p>
+
+<p align="center">
+  <img src="projects/career-week/03-map.jpg" width="45%" alt="Карьерная неделя — карта"/>
+</p>
+
+**Стек:** Vue · Nuxt 3 · JavaScript · HTML · CSS · Figma
+
+**Возможности:**
+- Использовался при проведении СКН в СПбГЭТУ «ЛЭТИ»
+- Многошаговые формы регистрации участников и работодателей
+- Программа мероприятий по дням, карусель работодателей
+- Карта проезда и интерактивная схема зала
+- Полностью адаптивный UI по собственному дизайну в Figma
+
+[![Live](https://img.shields.io/badge/Live-success?style=flat-square)](https://careeweekleti.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Details-00C7B7?style=flat-square)](https://npavlovskij.netlify.app/portfolio/career-week)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/career-week)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/design/3aAPv3SZAL1qMC3YMkhnpN/СКН?node-id=0-1&p=f&t=jXrcrKHq1BjqeKir-0)
+
+---
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -327,24 +361,6 @@
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://img.icons8.com/fluency/25/000000/calendar.png" width="22"/> [Карьерная неделя ЛЭТИ](https://careeweekleti.netlify.app/)
-
-<a href="https://careeweekleti.netlify.app/">
-  <img src="https://api.microlink.io/?url=https://careeweekleti.netlify.app/&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="Карьерная неделя"/>
-</a>
-
-**Vue · JavaScript · HTML · CSS · Figma**
-
-Полностью адаптивный сайт студенческого мероприятия с регистрацией, динамическим контентом, интерактивной картой и QR-кодами.
-
-[![Live](https://img.shields.io/badge/Live-success?style=flat-square)](https://careeweekleti.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/career-week)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### <img src="https://img.icons8.com/fluency/25/000000/bar-chart.png" width="22"/> [Анализ данных — Сбер](https://github.com/NickPavlovskii/sber)
 
 **Python · Pandas · NumPy · Seaborn · Matplotlib**
@@ -352,9 +368,6 @@
 Анализ временных рядов по объёмам расчётных счетов физических лиц. Прогнозирование стабильных уровней остатков средств (UMP).
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/sber/blob/main/README.md)
-
-</td>
-<td width="50%" valign="top">
 
 </td>
 </tr>
