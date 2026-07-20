@@ -133,10 +133,9 @@
 
 **«Управление технологическими проектами»** — программа дополнительного профессионального образования в СПбГЭТУ «ЛЭТИ» (60 часов, 2025).
 
-В рамках программы участвовал в **акселераторе со стартап-проектом**, прошёл путь от идеи до защиты бизнес-модели.
+В рамках программы участвовал в **акселераторе со стартап-проектом Yes Office!** — B2B-платформой управления коммерческой недвижимостью; прошёл путь от идеи до защиты бизнес-модели.
 
-[![Презентация](https://img.shields.io/badge/Презентация-Стартапа-FF6B35?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](ВАША_ССЫЛКА_НА_ПРЕЗЕНТАЦИЮ)
-[![Сайт](https://img.shields.io/badge/Сайт-Проекта-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](ВАША_ССЫЛКА_НА_САЙТ)
+[![Yes Office!](https://img.shields.io/badge/Yes_Office!-Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://npavlovskij.netlify.app/portfolio/yes-office)
 </p>
 
 <br clear="all"/>
@@ -175,6 +174,38 @@
 
 ##  Избранные проекты
 
+### <img src="https://img.icons8.com/fluency/30/000000/report-card.png" width="26"/> [ИС «Отчёты» — хранение и проверка учебных работ](https://npavlovskij.netlify.app/portfolio/student-reports-system)
+
+Корпоративная ИС для СПбГЭТУ «ЛЭТИ»: централизованная работа с учебной отчётностью студентов кафедры (ИДЗ, доклады, лабораторные и др.). Внедрена на кафедре ИС (акт внедрения по результатам ВКР).
+
+<p align="center">
+  <img src="projects/reports/screen-overview.png" width="90%" alt="ИС Отчёты — обзор"/>
+</p>
+
+<p align="center">
+  <img src="projects/reports/screen-reports.png" width="45%" alt="Таблица отчётов"/>
+  &nbsp;
+  <img src="projects/reports/screen-analytics.png" width="45%" alt="Аналитика"/>
+</p>
+
+**Стек:** Vue 3 · TypeScript · PWA · Vuetify · Storybook · Vitest · Java Spring · PostgreSQL
+
+**Возможности:**
+- Дисциплины и группы преподавателя с фильтрацией
+- Загрузка отчётов с привязкой к дисциплине, группе, студенту и теме
+- Статусы: загружено / не загружено / проверено
+- Аналитика по дисциплинам, семестрам и преподавателям
+- Экспорт в Excel и графиков в PNG
+- PWA-режим; доклады на конференциях СПбГЭТУ «ЛЭТИ»
+
+[![Live](https://img.shields.io/badge/Live-etu--report-success?style=flat-square)](https://etu-report.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Details-00C7B7?style=flat-square)](https://npavlovskij.netlify.app/portfolio/student-reports-system)
+[![Client](https://img.shields.io/badge/GitHub-Client-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/etu-student-report)
+[![Backend](https://img.shields.io/badge/GitHub-Backend-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/etu-reports-backend)
+[![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)](https://etu-storybook.netlify.app)
+
+---
+
 ### <img src="https://img.icons8.com/fluency/30/000000/map-pin.png" width="26"/> [Niklad — геоинформационное приложение (GIS)](https://npavlovskij.netlify.app/portfolio/gis-green-zones)
 
 ГИС-клиент для **инвентаризации зелёных зон**: ортофото, сегментация и объекты инфраструктуры на одной карте (дипломный проект).
@@ -206,35 +237,20 @@
 
 ---
 
-### <img src="https://img.icons8.com/fluency/30/000000/report-card.png" width="26"/> [ИС «Отчёты» — хранение и проверка учебных работ](https://npavlovskij.netlify.app/portfolio/student-reports-system)
+### <img src="https://img.icons8.com/fluency/30/000000/office.png" width="26"/> [Yes Office! — платформа управления коммерческой недвижимостью](https://npavlovskij.netlify.app/portfolio/yes-office)
 
-Корпоративная ИС для СПбГЭТУ «ЛЭТИ»: централизованная работа с учебной отчётностью студентов кафедры (ИДЗ, доклады, лабораторные и др.). Внедрена на кафедре ИС (акт внедрения по результатам ВКР).
+Цифровая B2B-платформа для управляющих компаний, девелоперов и собственников бизнес-центров: интерактивная карта объектов, документооборот и аналитика использования пространства в реальном времени. Разработана в рамках акселератора СПбГЭТУ «ЛЭТИ».
 
-<p align="center">
-  <img src="projects/reports/screen-overview.png" width="90%" alt="ИС Отчёты — обзор"/>
-</p>
-
-<p align="center">
-  <img src="projects/reports/screen-reports.png" width="45%" alt="Таблица отчётов"/>
-  &nbsp;
-  <img src="projects/reports/screen-analytics.png" width="45%" alt="Аналитика"/>
-</p>
-
-**Стек:** Vue 3 · TypeScript · PWA · Vuetify · Storybook · Vitest · Java Spring · PostgreSQL
+**Стек:** Vue 3 · UX/UI · Интерактивные карты · Аналитика · Документооборот · Big Data
 
 **Возможности:**
-- Дисциплины и группы преподавателя с фильтрацией
-- Загрузка отчётов с привязкой к дисциплине, группе, студенту и теме
-- Статусы: загружено / не загружено / проверено
-- Аналитика по дисциплинам, семестрам и преподавателям
-- Экспорт в Excel и графиков в PNG
-- PWA-режим; доклады на конференциях СПбГЭТУ «ЛЭТИ»
+- Визуальный контроль объектов на интерактивной карте
+- Модули аналитики доходности и заполняемости
+- Документооборот для управления коммерческой недвижимостью
+- UX/UI-интерфейс по результатам интервью с рынком
+- Бизнес-модель, юнит-экономика и презентации для инвесторов
 
-[![Live](https://img.shields.io/badge/Live-etu--report-success?style=flat-square)](https://etu-report.netlify.app)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Details-00C7B7?style=flat-square)](https://npavlovskij.netlify.app/portfolio/student-reports-system)
-[![Client](https://img.shields.io/badge/GitHub-Client-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/etu-student-report)
-[![Backend](https://img.shields.io/badge/GitHub-Backend-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/etu-reports-backend)
-[![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)](https://etu-storybook.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Details-00C7B7?style=flat-square)](https://npavlovskij.netlify.app/portfolio/yes-office)
 
 ---
 
