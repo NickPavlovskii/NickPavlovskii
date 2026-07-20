@@ -241,6 +241,22 @@
 
 Цифровая B2B-платформа для управляющих компаний, девелоперов и собственников бизнес-центров: интерактивная карта объектов, документооборот и аналитика использования пространства в реальном времени. Разработана в рамках акселератора СПбГЭТУ «ЛЭТИ».
 
+<p align="center">
+  <img src="projects/yes-office/plan-view.png" width="90%" alt="Yes Office — просмотр плана этажа"/>
+</p>
+
+<p align="center">
+  <img src="projects/yes-office/premises-list.png" width="45%" alt="Yes Office — список помещений"/>
+  &nbsp;
+  <img src="projects/yes-office/plan-editor.png" width="45%" alt="Yes Office — редактор плана"/>
+</p>
+
+<p align="center">
+  <img src="projects/yes-office/analytics.png" width="45%" alt="Yes Office — аналитика"/>
+  &nbsp;
+  <img src="projects/yes-office/documents.png" width="45%" alt="Yes Office — документы"/>
+</p>
+
 **Стек:** Vue 3 · UX/UI · Интерактивные карты · Аналитика · Документооборот · Big Data
 
 **Возможности:**
@@ -250,6 +266,7 @@
 - UX/UI-интерфейс по результатам интервью с рынком
 - Бизнес-модель, юнит-экономика и презентации для инвесторов
 
+[![Live](https://img.shields.io/badge/Live-yes--office-success?style=flat-square)](https://yes-office.netlify.app/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Details-00C7B7?style=flat-square)](https://npavlovskij.netlify.app/portfolio/yes-office)
 
 ---
