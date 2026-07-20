@@ -276,17 +276,13 @@
 Информационный сайт Студенческой карьерной недели СПбГЭТУ «ЛЭТИ»: программа, регистрация участников и работодателей, карта и схема зала. **Сайт использовался вузом при проведении мероприятия.**
 
 <p align="center">
-  <img src="projects/career-week/01-hero.jpg" width="90%" alt="Карьерная неделя — главная"/>
+  <img src="projects/career-week/02-program.jpg" width="90%" alt="Карьерная неделя — главная"/>
 </p>
 
 <p align="center">
-  <img src="projects/career-week/02-program.jpg" width="45%" alt="Карьерная неделя — программа"/>
+  <img src="projects/career-week/03-map.jpg" width="45%" alt="Карьерная неделя — работодатели"/>
   &nbsp;
-  <img src="projects/career-week/04-registration.jpg" width="45%" alt="Карьерная неделя — регистрация"/>
-</p>
-
-<p align="center">
-  <img src="projects/career-week/03-map.jpg" width="45%" alt="Карьерная неделя — карта"/>
+  <img src="projects/career-week/04-registration.jpg" width="45%" alt="Карьерная неделя — карта"/>
 </p>
 
 **Стек:** Vue · Nuxt 3 · JavaScript · HTML · CSS · Figma
