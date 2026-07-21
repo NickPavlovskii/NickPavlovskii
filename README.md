@@ -37,24 +37,55 @@
 - Бакалавриат СПбГЭТУ «ЛЭТИ» — Управление в технических системах (2020-2024)
 
 **<img src="https://img.icons8.com/fluency/24/000000/briefcase.png" width="20"/> Текущая позиция:**
- Программист 2 категории в НИЦ СПбГЭТУ «ЛЭТИ» 
+ Программист 2 категории в НИЦ СПбГЭТУ «ЛЭТИ» · Full-stack (фриланс) — Top Mining
   
 ---
 
 ## <img src="https://img.icons8.com/fluency/48/000000/work.png" width="30"/> Профессиональный опыт
 
-### <img src="https://img.icons8.com/fluency/30/000000/office.png" width="25"/> НИЦ СПбГЭТУ «ЛЭТИ» | Программист 2 категории
-**2023 — настоящее время**
+### <img src="https://img.icons8.com/fluency/30/000000/bitcoin.png" width="25"/> Full-stack разработчик · фриланс
+**2026 — настоящее время**
 
-- <img src="https://img.icons8.com/fluency/20/000000/rocket.png" width="18"/> Разработка и поддержка веб-приложений на **JavaScript, TypeScript, Vue 3, Java**
-- <img src="https://img.icons8.com/fluency/20/000000/package.png" width="18"/> Создание UI-библиотек и компонентов с нуля для повторного использования
-- <img src="https://img.icons8.com/fluency/20/000000/combo-chart.png" width="18"/> Реализация графиков, таблиц и аналитических панелей (**ApexCharts, Vuetify**)
-- <img src="https://img.icons8.com/fluency/20/000000/world-map.png" width="18"/> Работа с геоинформационными фреймворками — **OpenLayers** и **CesiumJS**
-- <img src="https://img.icons8.com/fluency/20/000000/paint-palette.png" width="18"/> Верстка интерфейсов по макетам из **Figma**
-- <img src="https://img.icons8.com/fluency/20/000000/maintenance.png" width="18"/> Разработка **REST API** на **Java Spring**, работа со **Swagger**
-- <img src="https://img.icons8.com/fluency/20/000000/test-tube.png" width="18"/> Написание юнит-тестов и проведение модульного тестирования
-- <img src="https://img.icons8.com/fluency/20/000000/group.png" width="18"/> Командная разработка с использованием **Jira**, участие в спринтах
-- <img src="https://img.icons8.com/fluency/20/000000/handshake.png" width="18"/> Взаимодействие с бэкендом, аналитиками и тестировщиками
+**Top Mining** — каталог и финансовая платформа для майнинг-индустрии
+
+- <img src="https://img.icons8.com/fluency/20/000000/rocket.png" width="18"/> Разработал сайт и демоверсию платформы: клиентская часть на **React**, серверная — на **Go**
+- <img src="https://img.icons8.com/fluency/20/000000/database.png" width="18"/> Спроектировал схему **PostgreSQL** и систему миграций: каталог организаций, блочная модель статей, домен оборудования и калькулятор доходности
+- <img src="https://img.icons8.com/fluency/20/000000/docker.png" width="18"/> Настроил окружение в **Docker** и **Docker Compose**: изолированная база, воспроизводимая среда разработки, автоматическое применение миграций
+- <img src="https://img.icons8.com/fluency/20/000000/paint-palette.png" width="18"/> Спроектировал интерфейс и дизайн-систему в **Figma**, подготовил ТЗ и документацию по архитектуре
+
+[![top-mining.ru](https://img.shields.io/badge/top--mining.ru-00C7B7?style=flat-square&logo=google-chrome&logoColor=white)](https://top-mining.ru/)
+[![Figma](https://img.shields.io/badge/Макет_платформы-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/design/YqE6LtUSfh7jgdflRIRjLU/%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0--Top-Mining-?node-id=449-464&t=hp4kyYmX0Ddzk3no-1)
+
+---
+
+### <img src="https://img.icons8.com/fluency/30/000000/office.png" width="25"/> НИЦ СПбГЭТУ «ЛЭТИ» | Программист 2 категории
+**Февраль 2026 — настоящее время** · повышение в должности
+
+- <img src="https://img.icons8.com/fluency/20/000000/conference-call.png" width="18"/> В течение двух месяцев исполнял обязанности **тимлида** команды из двух Frontend-разработчиков в проекте внутренней утилиты обмена данными между двумя БД
+- <img src="https://img.icons8.com/fluency/20/000000/artificial-intelligence.png" width="18"/> Совместно со специалистом по ИИ разработал **MVP системы анализа видеопотока** для автоматического выявления потенциально аварийных ситуаций; провёл демонстрацию и презентацию решения потенциальному заказчику
+- <img src="https://img.icons8.com/fluency/20/000000/todo-list.png" width="18"/> Планирование спринтов, декомпозиция и распределение задач, контроль сроков и **code review**
+- <img src="https://img.icons8.com/fluency/20/000000/handshake.png" width="18"/> Координация взаимодействия между аналитиком, руководителем проекта, backend-разработчиком и тестировщиком — согласование требований и снятие блокеров
+- <img src="https://img.icons8.com/fluency/20/000000/hierarchy.png" width="18"/> Участие в архитектурных решениях, контроль качества реализации и соблюдения командных стандартов разработки
+
+---
+
+### <img src="https://img.icons8.com/fluency/30/000000/developer.png" width="25"/> НИЦ СПбГЭТУ «ЛЭТИ» | Программист 3 категории
+**Март 2023 — январь 2026** · параллельная работа над несколькими проектами
+
+- <img src="https://img.icons8.com/fluency/20/000000/rocket.png" width="18"/> Разработка и поддержка веб-приложений на **JavaScript, TypeScript, Vue 3** и **Java**, включая сложные интерфейсы и внутренние инструменты
+- <img src="https://img.icons8.com/fluency/20/000000/package.png" width="18"/> Компоненты и проекты с нуля, UI-библиотеки для повторного использования
+- <img src="https://img.icons8.com/fluency/20/000000/settings.png" width="18"/> Настройка зависимостей клиентской части на Vue: конфигурация сборки, версии пакетов, разрешение конфликтов между библиотеками
+- <img src="https://img.icons8.com/fluency/20/000000/combo-chart.png" width="18"/> Графики, таблицы и аналитические панели (**ApexCharts, Vuetify**)
+- <img src="https://img.icons8.com/fluency/20/000000/world-map.png" width="18"/> Интерактивные 2D- и 3D-карты на **OpenLayers** и **CesiumJS**
+- <img src="https://img.icons8.com/fluency/20/000000/maintenance.png" width="18"/> **Java Spring**: endpoints, документация REST API в **Swagger**
+- <img src="https://img.icons8.com/fluency/20/000000/api.png" width="18"/> Тестирование API в **Postman**, нагрузочное тестирование в **Apache JMeter**
+- <img src="https://img.icons8.com/fluency/20/000000/paint-palette.png" width="18"/> Вёрстка по макетам из **Figma**, юнит-тесты и модульное тестирование
+- <img src="https://img.icons8.com/fluency/20/000000/group.png" width="18"/> Взаимодействие с аналитиками и тестировщиками, задачи в **Jira**, участие в спринтах
+
+**Внутренние проекты НИЦ:**
+[![planometrika](https://img.shields.io/badge/planometrika-планирование_нагрузки-0052CC?style=flat-square)](https://planometrika.nicetu.spb.ru)
+[![kontraktprof](https://img.shields.io/badge/kontraktprof-управление_контрактами-6DB33F?style=flat-square)](https://kontraktprof.nicetu.spb.ru)
+· ряд проектов с ограниченным доступом
 
 ## <img src="https://img.icons8.com/fluency/48/000000/toolbox.png" width="30"/> Технологический стек
 
@@ -217,7 +248,7 @@
 <p align="center">
   <img src="projects/gis/02-object-modal.png" width="45%" alt="Карточка инфраструктуры"/>
   &nbsp;
-  <img src="projects/gis/03-tree-modal.png" width="45%" alt="Карточка дерева"/>
+  <img src="projects/gis/GIS1.PNG" width="45%" alt="ГИС — карта и объекты"/>
 </p>
 
 **Стек:** HTML · CSS · JavaScript · OpenLayers · GeoServer · PostGIS · GeoTIFF · DeepForest · SegFormer
@@ -359,9 +390,13 @@
 
 ### <img src="https://img.icons8.com/fluency/25/000000/bar-chart.png" width="22"/> [Анализ данных — Сбер](https://github.com/NickPavlovskii/sber)
 
+<a href="https://github.com/NickPavlovskii/sber">
+  <img src="projects/sber/certificate.png" width="100%" alt="Сертификат виртуальной стажировки Сбер — Data Science"/>
+</a>
+
 **Python · Pandas · NumPy · Seaborn · Matplotlib**
 
-Анализ временных рядов по объёмам расчётных счетов физических лиц. Прогнозирование стабильных уровней остатков средств (UMP).
+Анализ временных рядов по объёмам расчётных счетов физических лиц. Прогнозирование стабильных уровней остатков средств (UMP). Сертификат виртуальной стажировки **Сбер × STUDRE** по направлению Data Science (2022).
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/sber/blob/main/README.md)
 
