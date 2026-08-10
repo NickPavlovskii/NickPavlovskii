@@ -29,33 +29,19 @@
 
 - <img src="https://img.icons8.com/fluency/20/000000/brain.png" width="18"/> Увлекаюсь нейронными сетями и анализом данных
 - <img src="https://img.icons8.com/fluency/20/000000/laptop.png" width="18"/> Занимаюсь веб-разработкой
-- <img src="https://img.icons8.com/fluency/20/000000/fire-element.png" width="18"/> Работаю с современными технологиями: **JavaScript** (Vue/Nuxt), **TypeScript**, **Java** (Spring)
+- <img src="https://img.icons8.com/fluency/20/000000/fire-element.png" width="18"/> Работаю с современными технологиями: **JavaScript** (Vue/Nuxt), **TypeScript**, **Java** (Spring), **Go**
 - <img src="https://img.icons8.com/fluency/20/000000/sprout.png" width="18"/> Постоянно развиваюсь и осваиваю новые инструменты
 
 **<img src="https://img.icons8.com/fluency/24/000000/graduation-cap.png" width="20"/> Образование:**
-- Магистратура СПбГЭТУ «ЛЭТИ» — Информационные системы и технологии (2024-2026)
-- Бакалавриат СПбГЭТУ «ЛЭТИ» — Управление в технических системах (2020-2024)
+- Магистратура СПбГЭТУ «ЛЭТИ» — Информационные системы и технологии (2024–2026)
+- Бакалавриат СПбГЭТУ «ЛЭТИ» — Управление в технических системах (2020–2024)
 
 **<img src="https://img.icons8.com/fluency/24/000000/briefcase.png" width="20"/> Текущая позиция:**
- Программист 2 категории в НИЦ СПбГЭТУ «ЛЭТИ» · Full-stack (фриланс) — Top Mining
-  
+Программист 2 категории в НИЦ СПбГЭТУ «ЛЭТИ» · Full-stack (фриланс) — Top Mining · оформление учебных программ и работа в приёмной комиссии ЛЭТИ
+
 ---
 
 ## <img src="https://img.icons8.com/fluency/48/000000/work.png" width="30"/> Профессиональный опыт
-
-### <img src="https://img.icons8.com/fluency/30/000000/bitcoin.png" width="25"/> Full-stack разработчик · фриланс
-**2026 — настоящее время**
-
-**Top Mining** — каталог и финансовая платформа для майнинг-индустрии
-
-- <img src="https://img.icons8.com/fluency/20/000000/rocket.png" width="18"/> Разработал сайт и демоверсию платформы: клиентская часть на **React**, серверная — на **Go**
-- <img src="https://img.icons8.com/fluency/20/000000/database.png" width="18"/> Спроектировал схему **PostgreSQL** и систему миграций: каталог организаций, блочная модель статей, домен оборудования и калькулятор доходности
-- <img src="https://img.icons8.com/fluency/20/000000/docker.png" width="18"/> Настроил окружение в **Docker** и **Docker Compose**: изолированная база, воспроизводимая среда разработки, автоматическое применение миграций
-- <img src="https://img.icons8.com/fluency/20/000000/paint-palette.png" width="18"/> Спроектировал интерфейс и дизайн-систему в **Figma**, подготовил ТЗ и документацию по архитектуре
-
-[![top-mining.ru](https://img.shields.io/badge/top--mining.ru-00C7B7?style=flat-square&logo=google-chrome&logoColor=white)](https://top-mining.ru/)
-[![Figma](https://img.shields.io/badge/Макет_платформы-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/design/YqE6LtUSfh7jgdflRIRjLU/%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0--Top-Mining-?node-id=449-464&t=hp4kyYmX0Ddzk3no-1)
-
 ---
 
 ### <img src="https://img.icons8.com/fluency/30/000000/office.png" width="25"/> НИЦ СПбГЭТУ «ЛЭТИ» | Программист 2 категории
@@ -87,6 +73,36 @@
 [![kontraktprof](https://img.shields.io/badge/kontraktprof-управление_контрактами-6DB33F?style=flat-square)](https://kontraktprof.nicetu.spb.ru)
 · ряд проектов с ограниченным доступом
 
+### <img src="https://img.icons8.com/fluency/30/000000/graduation-cap.png" width="25"/> СПбГЭТУ «ЛЭТИ» | Приёмная комиссия и учебные программы
+**Лето 2026**
+
+- <img src="https://img.icons8.com/fluency/20/000000/conference-call.png" width="18"/> Работа в **приёмной комиссии** ЛЭТИ: приём документов, консультации по направлениям подготовки и правилам поступления
+- <img src="https://img.icons8.com/fluency/20/000000/group.png" width="18"/> Общение с **абитуриентами и их родителями** — ответы на вопросы по программам, срокам, документам и условиям поступления
+- <img src="https://img.icons8.com/fluency/20/000000/edit-property.png" width="18"/> Оформление [учебной программы бакалавриата 09.03.02 «Информационные системы и технологии в бизнесе»](https://digital.etu.ru/plan-viewer/program/09-03-02-informatsionnye-sistemy-i-tehnologii-informatsionnye-sistemy-i-tehnologii-v-biznese?enrollYear=2026) на сайте вуза
+
+[![Программа 09.03.02](https://img.shields.io/badge/Программа_09.03.02-ЛЭТИ-0052CC?style=flat-square)](https://digital.etu.ru/plan-viewer/program/09-03-02-informatsionnye-sistemy-i-tehnologii-informatsionnye-sistemy-i-tehnologii-v-biznese?enrollYear=2026)
+
+---
+### <img src="https://img.icons8.com/fluency/30/000000/bitcoin.png" width="25"/> Full-stack разработчик · фриланс
+**2026 лето**
+
+**Top Mining** — каталог и финансовая платформа для майнинг-индустрии
+
+- <img src="https://img.icons8.com/fluency/20/000000/rocket.png" width="18"/> Участвовал в разработке **продакшена** [top-mining.ru](https://top-mining.ru/): клиент на **React**, сервер на **Go**
+- <img src="https://img.icons8.com/fluency/20/000000/code.png" width="18"/> Самостоятельно пересобрал продукт как **pet-проект** на **Vue 3 / Nuxt 3** по макетам Figma — [демо на Netlify](https://top-mining.netlify.app/)
+- <img src="https://img.icons8.com/fluency/20/000000/database.png" width="18"/> Спроектировал схему **PostgreSQL** / **Supabase** и миграции: каталог организаций, статьи, оборудование, калькулятор доходности, лиды
+- <img src="https://img.icons8.com/fluency/20/000000/api.png" width="18"/> Реализовал **GraphQL + REST API** на Go: каталог, калькулятор, статьи, подписка и формы заявок
+- <img src="https://img.icons8.com/fluency/20/000000/docker.png" width="18"/> Настроил окружение в **Docker** и **Docker Compose**: изолированная БД, воспроизводимая среда, автоматическое применение миграций
+- <img src="https://img.icons8.com/fluency/20/000000/paint-palette.png" width="18"/> Спроектировал интерфейс и дизайн-систему в **Figma**, UI-kit в **Storybook**, unit-тесты (**Vitest**)
+
+[![top-mining.ru](https://img.shields.io/badge/top--mining.ru-Продакшен-00C7B7?style=flat-square&logo=google-chrome&logoColor=white)](https://top-mining.ru/)
+[![Демо Vue](https://img.shields.io/badge/Демо_Vue-Netlify-41B883?style=flat-square&logo=netlify&logoColor=white)](https://top-mining.netlify.app/)
+[![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)](https://top-minig-storybook.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/TopMining)
+[![Figma](https://img.shields.io/badge/Макет_платформы-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/design/YqE6LtUSfh7jgdflRIRjLU/%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0--Top-Mining-?node-id=4433-29788&t=nNiwm3TQsZRg9DBQ-0)
+
+---
+
 ## <img src="https://img.icons8.com/fluency/48/000000/toolbox.png" width="30"/> Технологический стек
 
 <div align="center">
@@ -106,8 +122,10 @@
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
 ### <img src="https://img.icons8.com/fluency/30/000000/server.png" width="25"/> Backend & Databases
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### <img src="https://img.icons8.com/fluency/30/000000/map.png" width="25"/> GIS & Visualization
@@ -123,7 +141,9 @@
 ### <img src="https://img.icons8.com/fluency/30/000000/settings.png" width="25"/> Tools & Testing
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
@@ -203,11 +223,11 @@
 
 ---
 
-##  Избранные проекты
+## Избранные проекты
 
 ### <img src="https://img.icons8.com/fluency/30/000000/report-card.png" width="26"/> [ИС «Отчёты» — хранение и проверка учебных работ](https://npavlovskij.netlify.app/portfolio/student-reports-system)
 
-Корпоративная ИС для СПбГЭТУ «ЛЭТИ»: централизованная работа с учебной отчётностью студентов кафедры (ИДЗ, доклады, лабораторные и др.). Внедрена на кафедре ИС (акт внедрения по результатам ВКР).
+Корпоративная ИС для СПбГЭТУ «ЛЭТИ»: централизованная работа с учебной отчётностью студентов кафедры (ИДЗ, доклады, лабораторные и др.). **Внедрена на кафедре ИС** (акт внедрения по результатам ВКР). Доклад на конференции «Наука настоящего и будущего» (2026).
 
 <p align="center">
   <img src="projects/reports/screen-overview.png" width="90%" alt="ИС Отчёты — обзор"/>
@@ -234,6 +254,45 @@
 [![Client](https://img.shields.io/badge/GitHub-Client-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/etu-student-report)
 [![Backend](https://img.shields.io/badge/GitHub-Backend-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/etu-reports-backend)
 [![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)](https://etu-storybook.netlify.app)
+
+---
+
+### <img src="https://img.icons8.com/fluency/30/000000/bitcoin.png" width="26"/> [ТОП-МАЙНИНГ — финансовая платформа (pet-проект)](https://npavlovskij.netlify.app/portfolio/top-mining)
+
+Pet-проект и демо-портфолио майнинг-платформы. После фриланса на **продакшене** (React + Go, [top-mining.ru](https://top-mining.ru/)) самостоятельно пересобрал продукт на **Vue 3 / Nuxt 3** по Figma: каталог, калькулятор доходности, рейтинги, статьи, лиды и UI-kit в Storybook.
+
+<p align="center">
+  <img src="projects/top-mining/01-home.png" width="90%" alt="Top Mining — главная"/>
+</p>
+
+<p align="center">
+  <img src="projects/top-mining/02-calculator.png" width="45%" alt="Калькулятор доходности"/>
+  &nbsp;
+  <img src="projects/top-mining/03-catalog.png" width="45%" alt="Каталог"/>
+</p>
+
+<p align="center">
+  <img src="projects/top-mining/04-ratings.png" width="45%" alt="Рейтинги"/>
+  &nbsp;
+  <img src="projects/top-mining/05-articles.png" width="45%" alt="Статьи"/>
+</p>
+
+**Стек:** Nuxt 3 · Vue 3 · TypeScript · Pinia · SCSS · Tailwind CSS 4 · Quasar · Storybook · Vitest · Go · GraphQL · PostgreSQL · Supabase · Netlify
+
+**Возможности:**
+- Главная: hero, крипторынок, каталог, консалтинг и CTA
+- Калькулятор доходности ASIC / GPU / CPU с Pinia-стейтом
+- Каталог организаций и производителей: поиск, сортировка, фильтры
+- Рейтинги, статьи с локалями RU/EN, формы лидов и подписка
+- Go backend: GraphQL + REST, миграции PostgreSQL
+- Storybook UI-kit, адаптив desktop / mobile, unit-тесты Vitest
+
+[![Демо Vue](https://img.shields.io/badge/Демо_Vue-Netlify-41B883?style=flat-square&logo=netlify&logoColor=white)](https://top-mining.netlify.app/)
+[![Продакшен](https://img.shields.io/badge/Продакшен-top--mining.ru-00C7B7?style=flat-square&logo=google-chrome&logoColor=white)](https://top-mining.ru/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Details-00C7B7?style=flat-square)](https://npavlovskij.netlify.app/portfolio/top-mining)
+[![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)](https://top-minig-storybook.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/TopMining)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/design/YqE6LtUSfh7jgdflRIRjLU/%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0--Top-Mining-?node-id=4433-29788&t=nNiwm3TQsZRg9DBQ-0)
 
 ---
 
@@ -336,7 +395,7 @@
 <tr>
 <td width="50%" valign="top">
 
-###  [Портфолио-сайт](https://npavlovskij.netlify.app/)
+### [Портфолио-сайт](https://npavlovskij.netlify.app/)
 
 <a href="https://npavlovskij.netlify.app/">
   <img src="https://api.microlink.io/?url=https://npavlovskij.netlify.app/&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="Портфолио"/>
@@ -420,7 +479,7 @@
 </td>
 <td width="50%">
 
-- <img src="https://img.icons8.com/fluency/20/000000/checked.png" width="18"/> **REST API** разработка и интеграция
+- <img src="https://img.icons8.com/fluency/20/000000/checked.png" width="18"/> **REST API** и **GraphQL** разработка и интеграция
 - <img src="https://img.icons8.com/fluency/20/000000/checked.png" width="18"/> Юнит-тестирование и модульное тестирование
 - <img src="https://img.icons8.com/fluency/20/000000/checked.png" width="18"/> Agile методологии и работа в команде
 - <img src="https://img.icons8.com/fluency/20/000000/checked.png" width="18"/> Геоинформационные системы и картография
@@ -432,7 +491,7 @@
 ---
 
 <div align="center">
-  
+
 ### <img src="https://img.icons8.com/fluency/30/000000/idea.png" width="25"/> Открыт для новых технологий и интересных проектов!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NickPavlovskii&color=41b883&style=for-the-badge&label=Просмотров+профиля)
@@ -443,3 +502,4 @@
 
 <!-- Анимированный футер с волной -->
 ![footer](github_footer_banner.svg)
+
