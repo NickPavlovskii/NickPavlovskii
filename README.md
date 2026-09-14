@@ -37,7 +37,7 @@
 - Бакалавриат СПбГЭТУ «ЛЭТИ» — Управление в технических системах (2020-2024)
 
 **<img src="https://img.icons8.com/fluency/24/000000/briefcase.png" width="20"/> Текущая позиция:**
- Программист 2 категории в НИЦ СПбГЭТУ «ЛЭТИ» · Full-stack (фриланс) — Top Mining
+ Программист 2 категории в НИЦ СПбГЭТУ «ЛЭТИ» · Full-stack (фриланс) — Top Mining · MVP ИС «Отклик» (тестовое задание) — отзывы с Яндекс.Карт
   
 ---
 
@@ -108,7 +108,9 @@
 ### <img src="https://img.icons8.com/fluency/30/000000/server.png" width="25"/> Backend & Databases
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### <img src="https://img.icons8.com/fluency/30/000000/map.png" width="25"/> GIS & Visualization
 ![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6B75?style=for-the-badge&logo=openlayers&logoColor=white)
@@ -122,6 +124,8 @@
 
 ### <img src="https://img.icons8.com/fluency/30/000000/settings.png" width="25"/> Tools & Testing
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -234,6 +238,39 @@
 [![Client](https://img.shields.io/badge/GitHub-Client-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/etu-student-report)
 [![Backend](https://img.shields.io/badge/GitHub-Backend-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/etu-reports-backend)
 [![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)](https://etu-storybook.netlify.app)
+
+---
+
+### <img src="https://img.icons8.com/fluency/30/000000/comments.png" width="26"/> [ИС «Отклик» — отзывы и рейтинг с Яндекс.Карт](https://npavlovskij.netlify.app/portfolio/otklik)
+
+**MVP / тестовое задание.** Fullstack-сервис для работы с отзывами организации на Яндекс.Картах: официального API отзывов нет, поэтому данные снимает отдельный парсер на **Playwright**. Пользователь подключает карточку по ссылке, Laravel ставит задачу в очередь **Redis**, парсер собирает отзывы и рейтинг, результат сохраняется в **PostgreSQL**.
+
+<p align="center">
+  <img src="projects/otklik/reviews-bistro.png" width="90%" alt="Отклик — лента отзывов"/>
+</p>
+
+<p align="center">
+  <img src="projects/otklik/settings-bistro.png" width="45%" alt="Отклик — настройки карточки"/>
+  &nbsp;
+  <img src="projects/otklik/login.png" width="45%" alt="Отклик — вход"/>
+</p>
+
+**Стек:** Laravel 13 · PHP 8.3+ · Vue 3 · TypeScript · Vite · Vuetify 3 · Playwright · PostgreSQL · Redis · Docker · Railway · Sanctum · Vitest · PHPUnit
+
+**Возможности:**
+- Подключение организации по ссылке Яндекс.Карт (ID извлекается автоматически)
+- Парсер Playwright в отдельном сервисе: отзывы, рейтинг, счётчики и аспекты («Еда», «Кухня» и др.)
+- Очередь Redis и повторный сбор по кнопке «Обновить»
+- Гистограмма оценок, темы отзывов, история рейтинга по снимкам
+- Поиск, сортировка, фильтр по звёздам, пагинация
+- Auth через Laravel Sanctum (SPA cookie)
+- Деплой: Docker Compose локально и Railway (web, queue, parser, Postgres, Redis)
+
+**Демо:** `admin@example.com` / `password`
+
+[![Live](https://img.shields.io/badge/Live-Railway-success?style=flat-square)](https://niklad-otklik.up.railway.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Details-00C7B7?style=flat-square)](https://npavlovskij.netlify.app/portfolio/otklik)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/NickPavlovskii/yandex-maps-reviews-parser)
 
 ---
 
