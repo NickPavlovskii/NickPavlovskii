@@ -362,6 +362,36 @@ Pet-проект и демо-портфолио майнинг-платформ�
 [![ВКР](https://img.shields.io/badge/ВКР-PDF-EA4335?style=flat-square)](https://drive.google.com/file/d/1EONj1TvYs_iNKD5-TZ3nkLuDDmsQ-ItK/view?usp=drive_link)
 
 ---
+# CallLedger — криптоаналитический стартап
+
+**Python · Telegram Bot API · SQLite · REST API · AI · Figma**
+
+CallLedger — собственный Telegram-сервис для сбора, структурирования и анализа торговых сигналов из публичных криптовалютных каналов.
+
+* Backend на Python для мониторинга Telegram-каналов и сбора сигналов.
+* Regex-парсер для извлечения тикеров, направления сделки, цен, дедлайнов и других параметров.
+* AI fallback для обработки нестандартных сообщений.
+* Хранение данных в SQLite и REST API для клиентского приложения.
+* Telegram-бот и Mini App с реальными данными.
+* Автоматические тесты парсера и системы сбора данных.
+* Подготовлена архитектура дальнейшей интеграции Binance / Bybit для проверки результатов сигналов.
+* Разработка и продвижение продукта: Telegram-канал, контент и TikTok.
+
+### Links
+
+* 🤖 Telegram Bot — [@callledgerbot](https://t.me/callledgerbot)
+* 📢 Telegram Channel — [@callledger](https://t.me/callledger)
+* 🎨 Figma — [CallLedger](https://www.figma.com/design/U7wdepanitJW59hrW4YPra/CallLedger?m=auto&t=4wbmbOvBS0Hmz1Wa-6)
+
+<p align="center">
+  <img src="callledger.jpg" width="90%" alt="CallLedger"/>
+</p>
+
+<p align="center">
+  <img src="callledger_figma.jpg" width="45%" alt="CallLedger — Figma"/>
+</p>
+
+---
 
 ### <img src="https://img.icons8.com/fluency/30/000000/office.png" width="26"/> [Yes Office! — платформа управления коммерческой недвижимостью](https://npavlovskij.netlify.app/portfolio/yes-office)
 
