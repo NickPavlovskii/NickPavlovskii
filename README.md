@@ -11,7 +11,7 @@
 
 ### 👋 Привет, я Никита Павловский!
 
-**FullStack Developer | Vue.js & Java**
+**FullStack Developer | Vue/React & Java**
 
 *Целеустремлённый разработчик с опытом создания сложных веб-приложений и геоинформационных систем*
 
@@ -57,14 +57,22 @@
 ### <img src="https://img.icons8.com/fluency/30/000000/developer.png" width="25"/> НИЦ СПбГЭТУ «ЛЭТИ» | Программист 3 категории
 **Март 2023 — январь 2026** · параллельная работа над несколькими проектами
 
-- <img src="https://img.icons8.com/fluency/20/000000/rocket.png" width="18"/> Разработка и поддержка веб-приложений на **JavaScript, TypeScript, Vue 3** и **Java**, включая сложные интерфейсы и внутренние инструменты
-- <img src="https://img.icons8.com/fluency/20/000000/package.png" width="18"/> Компоненты и проекты с нуля, UI-библиотеки для повторного использования
-- <img src="https://img.icons8.com/fluency/20/000000/settings.png" width="18"/> Настройка зависимостей клиентской части на Vue: конфигурация сборки, версии пакетов, разрешение конфликтов между библиотеками
-- <img src="https://img.icons8.com/fluency/20/000000/combo-chart.png" width="18"/> Графики, таблицы и аналитические панели (**ApexCharts, Vuetify**)
-- <img src="https://img.icons8.com/fluency/20/000000/world-map.png" width="18"/> Интерактивные 2D- и 3D-карты на **OpenLayers** и **CesiumJS**
-- <img src="https://img.icons8.com/fluency/20/000000/maintenance.png" width="18"/> **Java Spring**: endpoints, документация REST API в **Swagger**
-- <img src="https://img.icons8.com/fluency/20/000000/api.png" width="18"/> Тестирование API в **Postman**, нагрузочное тестирование в **Apache JMeter**
-- <img src="https://img.icons8.com/fluency/20/000000/paint-palette.png" width="18"/> Вёрстка по макетам из **Figma**, юнит-тесты и модульное тестирование
+- <img src="https://img.icons8.com/fluency/20/000000/rocket.png" width="18"/> Разработка и поддержка веб-приложений на **JavaScript, TypeScript, React** и **Java**, включая сложные интерфейсы и внутренние информационные системы
+- <img src="https://img.icons8.com/fluency/20/000000/package.png" width="18"/> Разработка переиспользуемых **React-компонентов**, UI-библиотек и клиентских модулей с нуля
+- <img src="https://img.icons8.com/fluency/20/000000/settings.png" width="18"/> Использование **React Hooks** (useState, useEffect, useMemo, useCallback), управление состоянием и оптимизация производительности компонентов
+- <img src="https://img.icons8.com/fluency/20/000000/combo-chart.png" width="18"/> Разработка интерактивных таблиц, графиков и аналитических панелей, визуализация данных
+- <img src="https://img.icons8.com/fluency/20/000000/package.png" width="18"/> Разработка компонентов и проектов с нуля, создание собственных **UI-библиотек** и переиспользуемых React-компонентов
+- <img src="https://img.icons8.com/fluency/20/000000/settings.png" width="18"/> Настройка зависимостей клиентской части на **React**: конфигурация сборки, управление версиями пакетов, разрешение конфликтов между библиотеками
+- <img src="https://img.icons8.com/fluency/20/000000/combo-chart.png" width="18"/> Разработка графиков, таблиц и аналитических панелей (**Recharts, ApexCharts, Material UI**)
+- <img src="https://img.icons8.com/fluency/20/000000/world-map.png" width="18"/> Разработка интерактивных 2D- и 3D-карт с использованием **OpenLayers** и **CesiumJS**
+- <img src="https://img.icons8.com/fluency/20/000000/maintenance.png" width="18"/> Разработка backend на **Java и Spring Boot**: REST API, контроллеры, DTO, бизнес-логика, валидация и обработка исключений
+- <img src="https://img.icons8.com/fluency/20/000000/api.png" width="18"/> Интеграция frontend и backend через **REST API**, документирование API с помощью **Swagger**, тестирование в **Postman**
+- <img src="https://img.icons8.com/fluency/20/000000/database.png" width="18"/> Работа с **PostgreSQL**: SQL-запросы, оптимизация запросов и индексов, анализ планов выполнения
+- <img src="https://img.icons8.com/fluency/20/000000/paint-palette.png" width="18"/> Реализация интерфейсов по макетам из **Figma**, модульное и автоматизированное тестирование (**Jest, Vitest, Playwright**)
+- <img src="https://img.icons8.com/fluency/20/000000/group.png" width="18"/> Взаимодействие с аналитиками и тестировщиками, участие в планировании спринтов, ведение задач в **Jira**
+- <img src="https://img.icons8.com/fluency/20/000000/server.png" width="18"/> Использование **GitLab и Docker** для управления исходным кодом, сборки и организации разработки
+- <img src="https://img.icons8.com/fluency/20/000000/test-tube.png" width="18"/> API- и нагрузочное тестирование с использованием **Postman, Swagger и Apache JMeter**
+
 - <img src="https://img.icons8.com/fluency/20/000000/group.png" width="18"/> Взаимодействие с аналитиками и тестировщиками, задачи в **Jira**, участие в спринтах
 
 **Внутренние проекты НИЦ:**
