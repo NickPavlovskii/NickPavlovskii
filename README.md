@@ -29,7 +29,7 @@
 
 - <img src="https://img.icons8.com/fluency/20/000000/brain.png" width="18"/> Увлекаюсь нейронными сетями и анализом данных
 - <img src="https://img.icons8.com/fluency/20/000000/laptop.png" width="18"/> Занимаюсь веб-разработкой
-- <img src="https://img.icons8.com/fluency/20/000000/fire-element.png" width="18"/> Работаю с современными технологиями: **JavaScript** (Vue/Nuxt), **TypeScript**, **Java** (Spring), **Go**
+- <img src="https://img.icons8.com/fluency/20/000000/fire-element.png" width="18"/> Работаю с современными технологиями: **JavaScript** (Vue/React), **TypeScript**, **Java** (Spring), **Go**
 - <img src="https://img.icons8.com/fluency/20/000000/sprout.png" width="18"/> Постоянно развиваюсь и осваиваю новые инструменты
 
 **<img src="https://img.icons8.com/fluency/24/000000/graduation-cap.png" width="20"/> Образование:**
