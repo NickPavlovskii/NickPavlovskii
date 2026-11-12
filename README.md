@@ -57,23 +57,25 @@
 ### НИЦ СПбГЭТУ «ЛЭТИ» | Программист 3 категории
 **Март 2023 — январь 2026** · параллельная работа над несколькими проектами
 
-- <img src="https://img.icons8.com/fluency/20/000000/rocket.png" width="18"/> Разработка и поддержка веб-приложений на **JavaScript, TypeScript, React** и **Java**, включая сложные интерфейсы и внутренние информационные системы
-- <img src="https://img.icons8.com/fluency/20/000000/package.png" width="18"/> Разработка переиспользуемых **React-компонентов**, UI-библиотек и клиентских модулей с нуля
-- <img src="https://img.icons8.com/fluency/20/000000/settings.png" width="18"/> Использование **React Hooks** (useState, useEffect, useMemo, useCallback), управление состоянием и оптимизация производительности компонентов
-- <img src="https://img.icons8.com/fluency/20/000000/combo-chart.png" width="18"/> Разработка интерактивных таблиц, графиков и аналитических панелей, визуализация данных
-- <img src="https://img.icons8.com/fluency/20/000000/package.png" width="18"/> Разработка компонентов и проектов с нуля, создание собственных **UI-библиотек** и переиспользуемых React-компонентов
-- <img src="https://img.icons8.com/fluency/20/000000/settings.png" width="18"/> Настройка зависимостей клиентской части на **React**: конфигурация сборки, управление версиями пакетов, разрешение конфликтов между библиотеками
-- <img src="https://img.icons8.com/fluency/20/000000/combo-chart.png" width="18"/> Разработка графиков, таблиц и аналитических панелей (**Recharts, ApexCharts, Material UI**)
-- <img src="https://img.icons8.com/fluency/20/000000/world-map.png" width="18"/> Разработка интерактивных 2D- и 3D-карт с использованием **OpenLayers** и **CesiumJS**
-- <img src="https://img.icons8.com/fluency/20/000000/maintenance.png" width="18"/> Разработка backend на **Java и Spring Boot**: REST API, контроллеры, DTO, бизнес-логика, валидация и обработка исключений
-- <img src="https://img.icons8.com/fluency/20/000000/api.png" width="18"/> Интеграция frontend и backend через **REST API**, документирование API с помощью **Swagger**, тестирование в **Postman**
-- <img src="https://img.icons8.com/fluency/20/000000/database.png" width="18"/> Работа с **PostgreSQL**: SQL-запросы, оптимизация запросов и индексов, анализ планов выполнения
-- <img src="https://img.icons8.com/fluency/20/000000/paint-palette.png" width="18"/> Реализация интерфейсов по макетам из **Figma**, модульное и автоматизированное тестирование (**Jest, Vitest, Playwright**)
-- <img src="https://img.icons8.com/fluency/20/000000/group.png" width="18"/> Взаимодействие с аналитиками и тестировщиками, участие в планировании спринтов, ведение задач в **Jira**
-- <img src="https://img.icons8.com/fluency/20/000000/server.png" width="18"/> Использование **GitLab и Docker** для управления исходным кодом, сборки и организации разработки
-- <img src="https://img.icons8.com/fluency/20/000000/test-tube.png" width="18"/> API- и нагрузочное тестирование с использованием **Postman, Swagger и Apache JMeter**
 
-- <img src="https://img.icons8.com/fluency/20/000000/group.png" width="18"/> Взаимодействие с аналитиками и тестировщиками, задачи в **Jira**, участие в спринтах
+<ul>
+<li>Разработка и поддержка веб-приложений на <strong>JavaScript, TypeScript, React</strong> и <strong>Java</strong>, включая сложные интерфейсы и внутренние информационные системы</li>
+<li>Разработка переиспользуемых <strong>React-компонентов</strong>, UI-библиотек и клиентских модулей с нуля</li>
+<li>Использование <strong>React Hooks</strong> (useState, useEffect, useMemo, useCallback), управление состоянием и оптимизация производительности компонентов</li>
+<li>Разработка интерактивных таблиц, графиков и аналитических панелей, визуализация данных</li>
+<li>Разработка компонентов и проектов с нуля, создание собственных <strong>UI-библиотек</strong> и переиспользуемых React-компонентов</li>
+<li>Настройка зависимостей клиентской части на <strong>React</strong>: конфигурация сборки, управление версиями пакетов, разрешение конфликтов между библиотеками</li>
+<li>Разработка графиков, таблиц и аналитических панелей (<strong>Recharts, ApexCharts, Material UI</strong>)</li>
+<li>Разработка интерактивных 2D- и 3D-карт с использованием <strong>OpenLayers</strong> и <strong>CesiumJS</strong></li>
+<li>Разработка backend на <strong>Java и Spring Boot</strong>: REST API, контроллеры, DTO, бизнес-логика, валидация и обработка исключений</li>
+<li>Интеграция frontend и backend через <strong>REST API</strong>, документирование API с помощью <strong>Swagger</strong>, тестирование в <strong>Postman</strong></li>
+<li>Работа с <strong>PostgreSQL</strong>: SQL-запросы, оптимизация запросов и индексов, анализ планов выполнения</li>
+<li>Реализация интерфейсов по макетам из <strong>Figma</strong>, модульное и автоматизированное тестирование (<strong>Jest, Vitest, Playwright</strong>)</li>
+<li>Взаимодействие с аналитиками и тестировщиками, участие в планировании спринтов, ведение задач в <strong>Jira</strong></li>
+<li>Использование <strong>GitLab и Docker</strong> для управления исходным кодом, сборки и организации разработки</li>
+<li>API- и нагрузочное тестирование с использованием <strong>Postman, Swagger и Apache JMeter</strong></li>
+<li> <img src="https://img.icons8.com/fluency/20/000000/group.png" width="18"/> Взаимодействие с аналитиками и тестировщиками, задачи в **Jira**, участие в спринтах</li>
+</ul>
 
 **Внутренние проекты НИЦ:**
 [![planometrika](https://img.shields.io/badge/planometrika-планирование_нагрузки-0052CC?style=flat-square)](https://planometrika.nicetu.spb.ru)
